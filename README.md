@@ -30,8 +30,5 @@ Email: knimawat16@gmail.com
 
 Phone: +91 8813926710
 
-LinkedIn: Profile
-
-GitHub: Portfolio Repository
 
 This portfolio demonstrates my ability to turn complex datasets into meaningful insights, support strategic decision-making, and communicate results effectively through visualizations and dashboards.
