@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 const canvas = document.getElementById('hero-bg');
 const ctx = canvas.getContext('2d');
 
@@ -36,7 +36,7 @@ function animate(){
     requestAnimationFrame(animate);
 }
 animate();
-=======
+
 const canvas = document.getElementById('hero-bg');
 const ctx = canvas.getContext('2d');
 
@@ -74,4 +74,3 @@ function animate(){
     requestAnimationFrame(animate);
 }
 animate();
->>>>>>> a5dfc8e312c3876a6ed381b6ac9524fd7c0ba772

@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
 
 * {
@@ -258,7 +258,7 @@ footer { background: #0f766e; color: white; text-align: center; padding: 40px; }
     .hero { flex-direction: column; text-align: center; gap: 40px; padding-top: 60px; }
     .profile-img { width: 160px; height: 160px; }
 }
-=======
+
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
 
 * {
@@ -518,4 +518,3 @@ footer { background: #0f766e; color: white; text-align: center; padding: 40px; }
     .hero { flex-direction: column; text-align: center; gap: 40px; padding-top: 60px; }
     .profile-img { width: 160px; height: 160px; }
 }
->>>>>>> a5dfc8e312c3876a6ed381b6ac9524fd7c0ba772
